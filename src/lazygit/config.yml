@@ -1,0 +1,15 @@
+#####################################
+##                                 ##
+##  https://github.com/336conaN    ##
+##  https://codeberg.org/336conaN  ##
+##                                 ##
+#####################################
+
+os:
+  editPreset: 'nvim'
+
+git:
+  paging:
+    colorArg: always
+    pager: delta --dark --paging=never
+
